@@ -54,13 +54,14 @@ h1 {
 
 .crown {
 	position: absolute;
-	background: #f6f6f6;
-	width: 1em;
-	height: 1em;
+	background-color: #a9a9a9;
 	top: 50%;
 	right: -1em;
 	transform: translateY(-50%);
 	overflow: hidden;
+	width: 10px;
+	height: 35px;
+	border-radius: 5px;
 }
 
 .iGo__wrap {
